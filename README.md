@@ -1,5 +1,7 @@
+# Python code for codechef submission
+    
 # my_code
-if_have_better_idea_than_change
+# if_have_better_idea_than_change
 
 
 //https://www.codechef.com/submit/PALL01
