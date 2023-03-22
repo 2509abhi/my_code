@@ -1,6 +1,7 @@
 # Python code for codechef submission
     
 # my_code
+# 2509abhi-patch-1
 # if_have_better_idea_than_change
 
 
@@ -30,3 +31,6 @@ for t in range(0,t1):
         print("wins")
     else:
         print("loses")
+
+# Talk is cheap show me the code
+# main
